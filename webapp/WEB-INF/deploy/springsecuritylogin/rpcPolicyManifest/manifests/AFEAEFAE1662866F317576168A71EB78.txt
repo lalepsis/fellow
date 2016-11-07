@@ -1,0 +1,2 @@
+serviceClass: com.lale.security.login.client.GreetingService
+path: 4FEC3365B22E16506C82634F7E231B96.gwt.rpc
